@@ -22,4 +22,6 @@ Repository for the WiFi Shield
 
 This product is open source.
 
+This board incorporates design elements from the [*Sparkfun ESP8266 Thing*](https://www.sparkfun.com/products/13711 "Sparkfun ESP8266 Thing") which was developed by Sparkfun Electronics.
+
 Refer to LICENSE file for licensing information
